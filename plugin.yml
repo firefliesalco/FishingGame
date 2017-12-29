@@ -1,0 +1,8 @@
+name: ThatOneCompetitiveFishingGame
+main: com.firefliesalco.www.Fishy
+author: firefliesalco
+version: 1.0
+commands:
+  fish:
+    description: Have fun fishing!
+    usage: /fish
